@@ -1,0 +1,9 @@
+{
+  "name": "com.ian.touchbar",
+  "description": "TouchBar",
+  "path": "/Applications/Touch Bar for Browser",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}
