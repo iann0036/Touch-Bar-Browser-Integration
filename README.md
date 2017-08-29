@@ -2,7 +2,7 @@
 
 This example uses the undocumented control strip API and Native Messaging to create content that is specific to a website (in this case, YouTube).
 
-To install, run:
+To install, build the Application in Xcode then run:
 
 ```
 sudo cp ./Touch\ Bar\ for\ Browser /Applications/
